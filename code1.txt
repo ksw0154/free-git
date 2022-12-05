@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is master!
-=======
-this is development!
->>>>>>> develop
